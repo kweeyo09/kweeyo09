@@ -17,7 +17,7 @@
 * 🌸 I build small, very visual apps: paper-cut interfaces, 3D flowers, swipeable cards, things that feel good to touch
 * 🤝 Creative Strategist @ **People Make Things**, where I design more cool stuff
 
-\---
+---
 
 ### Things I've made
 
@@ -32,26 +32,18 @@
 |🧭 [**vantage**](https://github.com/kweeyo09/vantage)|Login-protected suite for CCN teams: project tracker, content engine, knowledge base, CRM and an AI consultant assistant|React · tRPC · Drizzle · Radix UI|
 |🏛️ [**ccnlondon\_v1**](https://github.com/kweeyo09/ccnlondon_v1)|Website for CCN London (fork)|HTML|
 
-\---
+---
 
 ### Toolbox
 
-!\[TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-!\[React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-!\[Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-!\[Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
-!\[Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-!\[Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square\&logo=threedotjs\&logoColor=white)
-!\[Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-!\[PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-!\[Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-!\[Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
-\---
-
-<div align="center">
-
-*Currently: finishing my degree in London, next stop SF.*
-
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
