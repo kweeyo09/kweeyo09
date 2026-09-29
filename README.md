@@ -1,9 +1,8 @@
 <div align="center">
 
-# Kiki Zhang · KIXIZZ STUDIO
+# Kiki Zhang
 
 **Art student who likes to code.**
-Designer based in London — designing the world of my dreams.
 
 [kixizz.com](https://www.kixizz.com/flowers) · [LinkedIn](https://www.linkedin.com/in/kiki-qiqi-zhang-611b98240) · 中文 / English
 
@@ -16,7 +15,7 @@ Designer based in London — designing the world of my dreams.
 * 🎨 Final-year **BA Animation** student at University of the Arts London
 * 🧩 My practice moves between **web design, motion, animation, graphic \& logo design, and painting** — code is another medium for it
 * 🌸 I build small, very visual apps: paper-cut interfaces, 3D flowers, swipeable cards, things that feel good to touch
-* 🤝 Part of **CCN London**, a cross-university student consultancy, where I build internal tools
+* 🤝 Creative Strategist @ **People Make Things**, where I design more cool stuff
 
 \---
 
