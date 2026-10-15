@@ -15,7 +15,6 @@
 * 🎨 Final-year **BA Animation** student at University of the Arts London
 * 🧩 My practice moves between **web design, motion, animation, graphic \& logo design, and painting** — code is another medium for it
 * 🌸 I build small, very visual apps: paper-cut interfaces, 3D flowers, swipeable cards, things that feel good to touch
-* 🤝 Creative Strategist @ **People Make Things**, where I design more cool stuff
 
 ---
 
