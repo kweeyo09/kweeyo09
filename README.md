@@ -27,7 +27,7 @@
 |🪺 [**FocusNest**](https://github.com/kweeyo09/procastination-helper)|Breaks overwhelming tasks into six tiny steps, with a warm lamp that glows when you finish. No account, no API key · [live](https://kweeyo09.github.io/procastination-helper/)|HTML · CSS · JavaScript|
 |🧗 [**climbing\_log**](https://github.com/kweeyo09/climbing_log)|Mobile app for tracking climbing sessions — where, how long, which routes, and reflections. Works offline|Expo (React Native) · SQLite · Supabase · Zustand|
 |🔮 [**tarot-showcase**](https://github.com/kweeyo09/tarot-showcase)|All 78 Rider-Waite cards with swipe navigation, flip animations and search · [live](https://rider-cards-2i9jdtox.manus.space)|TypeScript · React|
-|🏛️ [**ccnlondon\_v1**](https://github.com/kweeyo09/ccnlondon_v1)|Website for CCN London (fork)|HTML|
+|🏛️ [**ccnlondon\_v1**](https://github.com/kweeyo09/ccnlondon_v1)|Website redesign for CCN London · [live](https://ccnlondon-v1.vercel.app/)|HTML|
 
 ---
 
