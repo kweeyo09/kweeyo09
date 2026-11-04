@@ -12,9 +12,8 @@
 
 ### About me
 
-* 🎨 Final-year **BA Animation** student at University of the Arts London
-* 🧩 My practice moves between **web design, motion, animation, graphic \& logo design, and painting** — code is another medium for it
-* 🌸 I build small, very visual apps: paper-cut interfaces, 3D flowers, swipeable cards, things that feel good to touch
+* 🎨 Studying **BA Animation** in my final year at University of the Arts London
+* 🧩 My work spans **web design, motion, animation, graphic \& logo design, and painting**, and I treat code as one more medium alongside them
 
 ---
 
@@ -23,10 +22,9 @@
 |Project|What it is|Built with|
 |-|-|-|
 |🌸 [**portfolio**](https://github.com/kweeyo09/portfolio)|My studio site, [kixizz.com](https://www.kixizz.com/flowers) — swipe through projects, with Three.js 3D flowers|React 19 · Vite · Tailwind 4 · Three.js|
-|🎭 [**limelight**](https://github.com/kweeyo09/limelight)|Letterboxd for theatre. Browse the top 100 London shows, log what you saw, and collect draggable ticket stubs on a curtained stage · [live](https://theatreboxd.vercel.app)|Next.js 16 · React 19 · Postgres|
 |🪺 [**FocusNest**](https://github.com/kweeyo09/procastination-helper)|Breaks overwhelming tasks into six tiny steps, with a warm lamp that glows when you finish. No account, no API key · [live](https://kweeyo09.github.io/procastination-helper/)|HTML · CSS · JavaScript|
 |🧗 [**climbing\_log**](https://github.com/kweeyo09/climbing_log)|Mobile app for tracking climbing sessions — where, how long, which routes, and reflections. Works offline|Expo (React Native) · SQLite · Supabase · Zustand|
-|🔮 [**tarot-showcase**](https://github.com/kweeyo09/tarot-showcase)|All 78 Rider-Waite cards with swipe navigation, flip animations and search · [live](https://rider-cards-2i9jdtox.manus.space)|TypeScript · React|
+|✂️ [**paper-art**](https://github.com/kweeyo09/paper-art)|一纸生花 — a bilingual paper-cutting studio. Fold, sketch and snip a symmetrical design, then preview it as a cutout on a 3D window in sunlight, snow or dawn|HTML · CSS · JavaScript · Three.js|
 |🏛️ [**ccnlondon\_v1**](https://github.com/kweeyo09/ccnlondon_v1)|Website redesign for CCN London · [live](https://ccnlondon-v1.vercel.app/)|HTML|
 
 ---
