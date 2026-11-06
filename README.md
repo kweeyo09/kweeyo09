@@ -2,7 +2,7 @@
 
 # Kiki Zhang
 
-**Art student who likes to code.**
+**Designer who likes to code.**
 
 [kixizz.com](https://www.kixizz.com/flowers) · [LinkedIn](https://www.linkedin.com/in/kiki-qiqi-zhang-611b98240) · 中文 / English
 
